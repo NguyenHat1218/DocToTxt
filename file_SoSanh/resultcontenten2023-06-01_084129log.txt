@@ -1,0 +1,4 @@
+No.	idtxt	Topic	fullpath	name	len
+1 	 1 	 CN 	 data1/CN-doc3.docx	:CN-doc3.docx	29106
+Da doc thanh cong:1 file, bi loi:0, khong do tim duoc chu de:0
+Thoi gian thuc thi: 2.2387397289276123 giay, trung binh:2.2387397289276123 second/file
